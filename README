@@ -1,0 +1,8 @@
+## CI/CD Implementation by Likhitha Reddyvari
+
+This repository is forked from [https://github.com/LondheShubham153/django-notes-app] for learning and demonstration purposes.
+
+### My Contribution:
+- Implemented a full CI/CD pipeline using **Jenkins**.
+- Created Jenkinsfile for automated build, test, image push, and deployment.
+- Integrated DockerHub and GitHub webhooks for continuous delivery.
