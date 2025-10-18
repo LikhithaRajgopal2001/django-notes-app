@@ -1,4 +1,4 @@
-## CI/CD Implementation by Likhitha Reddyvari
+## CI/CD Implementation and Kubernetes orchestration by Likhitha Reddyvari
 
 This repository is forked from [https://github.com/LondheShubham153/django-notes-app] for learning and demonstration purposes.
 
@@ -6,3 +6,6 @@ This repository is forked from [https://github.com/LondheShubham153/django-notes
 - Implemented a full CI/CD pipeline using **Jenkins**.
 - Created Jenkinsfile for automated build, test, image push, and deployment.
 - Integrated DockerHub and GitHub webhooks for continuous delivery.
+
+- Orchestrated the application using Kubernetes, configuring Deployments, Services, Ingress and Secrets for modular and secure setup.
+- Ensured secure and efficient deployments by managing secrets and environment variables across the application lifecycle.
